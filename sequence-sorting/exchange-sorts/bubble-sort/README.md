@@ -1,5 +1,14 @@
 # Bubble sort
 
+|                           |                                    |
+| ------------------------- | ---------------------------------- |
+|Data structure	            | Array                              |
+|Worst-case performance	    |О(n²) comparisons, О(n²) swaps      |
+|Best-case performance	    |О(n) comparisons, О(1) swaps        |
+|Average performance	      |О(n²) comparisons, О(n²) swaps      |
+|Worst-case space complexity|O(1) auxiliary                      |
+
+
 A bubble sort, a sorting algorithm that continuously steps through a list,
 swapping items until they appear in the correct order. The list was plotted
 in a Cartesian coordinate system, with each point (x, y) indicating that the value y is
@@ -19,7 +28,7 @@ elements left to be compared.
 
 # Implementations
 
-- [C](bubble-sort.c)
-- [C++](bubble-sort.cpp)
-- [Java](BubbleSort.java)
-- [Python](bubble-sort.py)
+- [x] [C](bubble-sort.c)
+- [x] [C++](bubble-sort.cpp)
+- [x] [Java](BubbleSort.java)
+- [x] [Python](bubble-sort.py)
