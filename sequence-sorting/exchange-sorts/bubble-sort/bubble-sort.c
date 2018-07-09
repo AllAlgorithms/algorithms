@@ -1,10 +1,10 @@
-// C++ implementation of bubble sort
+// C implementation of bubble sort
 //
 // Author: Carlos Abraham Hernandez
 // Repository: github.com/19cah/algorithms
 
 
-#include <iostream>
+#include <stdio.h>
 
 // Swap elements
 void swap(int *x, int *y)
