@@ -46,7 +46,7 @@ just a paper and pencil.
     -	Sequence merging
     -	Sequence permutations
     -	Sequence alignment
-    -	Sequence sorting
+    -	[Sequence sorting](sequence-sorting)
     -	Subsequences
     -	Substrings
 -	Computational mathematics
