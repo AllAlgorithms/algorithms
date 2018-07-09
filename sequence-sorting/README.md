@@ -5,7 +5,7 @@ Efficient sorting is important for optimizing the efficiency of other algorithms
 which require input data to be in sorted lists.
 
 - Exchange Sorts
-  - Bubble sort: for each pair of indices, swap the items if out of order
+  - [Bubble sort](bubble-sort): for each pair of indices, swap the items if out of order
   - Cocktail shaker sort or bidirectional bubble sort, a bubble sort traversing the list alternately from front to back and back to front
   - Comb sort
   - Gnome sort
