@@ -32,3 +32,4 @@ elements left to be compared.
 - [x] [C++](bubble-sort.cpp)
 - [x] [Java](BubbleSort.java)
 - [x] [Python](bubble-sort.py)
+- [x] [Bash](bubble-sort.sh)

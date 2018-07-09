@@ -27,7 +27,7 @@ A recursive merge sort algorithm used to sort an array of 7 integer values. Thes
 
 # Implementations
 
-- [x] [C](bubble-sort.c)
+- [ ] [C](bubble-sort.c)
 - [x] [C++](bubble-sort.cpp)
-- [x] [Java](BubbleSort.java)
-- [x] [Python](bubble-sort.py)
+- [ ] [Java](BubbleSort.java)
+- [ ] [Python](bubble-sort.py)
