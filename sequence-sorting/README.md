@@ -26,7 +26,7 @@ which require input data to be in sorted lists.
   - Tree sort (binary tree sort): build binary tree, then traverse it to create sorted list
   - Cycle sort: in-place with theoretically optimal number of writes
 - Merge sorts
-  - Merge sort: sort the first and second half of the list separately, then merge the sorted lists
+  - [Merge sort](merge-sort/merge-sort): sort the first and second half of the list separately, then merge the sorted lists
   - Strand sort
   - Non-comparison sorts
   - Bead sort
