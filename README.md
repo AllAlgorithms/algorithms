@@ -105,12 +105,16 @@ just a paper and pencil.
   -	Scheduling
   -	I/O scheduling
 
-# License
+## License
 
-[MIT](https://github.com/19cah/algorithms/blob/master/LICENSE) License ©
-[Abraham](https://github.com/19cah)
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
+
+[![logo][license]]((http://creativecommons.org/licenses/by-sa/4.0/))
+
+To the extent possible under law, [Carlos Abraham](https://19cah.com/to/github) has waived all copyright and related or neighboring rights to this work.
 
 <!-- Links -->
+[license]: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
 [19cah]: https://19cah.com/badge.svg
 [cash-me]: https://cdn.abraham.gq/badges/cash-me.svg
 [patreon]: https://cdn.abraham.gq/badges/patreon.svg
