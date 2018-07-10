@@ -10,6 +10,10 @@
 [![Cash Me][19cah]](https://19cah.com)
 <!-- Badges -->
 
+### Pull Requests are opened
+
+If you have an implementation of any algorithm in any language that is not supported here, you can open a pull request.
+
 # What is an algorithm?
 
 Informally, an algorithm is any well-defined computational procedure that takes
@@ -101,7 +105,7 @@ just a paper and pencil.
 
 # License
 
-[MIT](https://github.com/19cah/algorithms/blob/master/LICENSE) License © 
+[MIT](https://github.com/19cah/algorithms/blob/master/LICENSE) License ©
 [Abraham](https://github.com/19cah)
 
 <!-- Links -->
