@@ -1,6 +1,6 @@
 # Merge sort
 
-|                           |                                    |
+| Merge Sort                |                                    |
 | ------------------------- | ---------------------------------- |
 |Data structure	            | Array                              |
 |Worst-case performance	    |O(n log n)                          |
@@ -27,7 +27,7 @@ A recursive merge sort algorithm used to sort an array of 7 integer values. Thes
 
 # Implementations
 
-- [ ] [C](bubble-sort.c)
-- [x] [C++](bubble-sort.cpp)
-- [ ] [Java](BubbleSort.java)
-- [ ] [Python](bubble-sort.py)
+- [ ] [C](merge-sort.c)
+- [x] [C++](merge-sort.cpp)
+- [ ] [Java](MergeSort.java)
+- [ ] [Python](merge-sort.py)

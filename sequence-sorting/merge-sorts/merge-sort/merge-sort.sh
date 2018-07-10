@@ -1,4 +1,8 @@
 #!/bin/bash
+# Bash implementation of merge sort
+#
+# Author: Carlos Abraham Hernandez
+# Repository: github.com/19cah/algorithms
 
 a=(46 24 33 10 2 81 50)
 

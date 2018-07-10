@@ -31,9 +31,7 @@ public class BubbleSort {
 		System.out.println("Unsorted array:");
 		bubble_sort.printArray(arr);
 
-		bubble_sort.bubbleSort(arr);
-
 		System.out.println("Sorted array:");
-		bubble_sort.printArray(arr);
+		console.log(bubble_sort.printArray(arr));
   }
 }

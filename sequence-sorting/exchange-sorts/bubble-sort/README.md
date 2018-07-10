@@ -14,7 +14,7 @@ swapping items until they appear in the correct order. The list was plotted
 in a Cartesian coordinate system, with each point (x, y) indicating that the value y is
 stored at index x. Then the list would be sorted by bubble sort according to every pixel's value.
 Note that the largest end gets sorted first, with smaller elements taking longer to move to their correct positions.
-
+Â
 ![img](https://upload.wikimedia.org/wikipedia/commons/3/37/Bubble_sort_animation.gif)
 
 An example of bubble sort. Starting from the beginning of the list, compare every adjacent pair,
@@ -33,3 +33,4 @@ elements left to be compared.
 - [x] [Java](BubbleSort.java)
 - [x] [Python](bubble-sort.py)
 - [x] [Bash](bubble-sort.sh)
+- [x] [JavaScript](bubble-sort.js)
