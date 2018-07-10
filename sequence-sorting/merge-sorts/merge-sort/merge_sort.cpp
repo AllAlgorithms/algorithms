@@ -1,4 +1,4 @@
-// C implementation of merge sort
+// C++ implementation of merge sort
 //
 // Author: Carlos Abraham Hernandez
 // Repository: github.com/19cah/algorithms
@@ -6,9 +6,7 @@
 #include<stdlib.h>
 #include<stdio.h>
 
-// Merges two subarrays of arr[].
-// First subarray is arr[l..m]
-// Second subarray is arr[m+1..r]
+// Merge the two half into a sorted data.
 void merge(int arr[], int l, int m, int r)
 {
     int i, j, k;
