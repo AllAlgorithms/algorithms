@@ -14,7 +14,7 @@ swapping items until they appear in the correct order. The list was plotted
 in a Cartesian coordinate system, with each point (x, y) indicating that the value y is
 stored at index x. Then the list would be sorted by bubble sort according to every pixel's value.
 Note that the largest end gets sorted first, with smaller elements taking longer to move to their correct positions.
-Â
+
 ![img](https://upload.wikimedia.org/wikipedia/commons/3/37/Bubble_sort_animation.gif)
 
 An example of bubble sort. Starting from the beginning of the list, compare every adjacent pair,
@@ -28,11 +28,13 @@ elements left to be compared.
 
 # Implementations
 
-- [x] [C](bubble-sort.c)
-- [x] [C++](bubble-sort.cpp)
+- [x] [C](bubble_sort.c)
+- [x] [C++](bubble_sort.cpp)
 - [x] [Java](BubbleSort.java)
-- [x] [Python](bubble-sort.py)
-- [x] [Bash](bubble-sort.sh)
-- [x] [JavaScript](bubble-sort.js)
-- [x] [PHP](bubble-sort.php)
-- [x] [Ruby](bubble-sort.rb)
+- [x] [Python](bubble_sort.py)
+- [x] [Bash](bubble_sort.sh)
+- [x] [JavaScript](bubble_sort.js)
+- [x] [PHP](bubble_sort.php)
+- [x] [Ruby](bubble_sort.rb)
+- [x] [Swift](bubble_sort.swift)
+- [x] [Go](bubble_sort.go)

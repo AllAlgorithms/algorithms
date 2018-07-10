@@ -8,6 +8,8 @@
 [![Patreon][patreon]](https://www.patreon.com/19cah)
 [![Cash Me][cash-me]](https://cash.me/$19cah)
 [![Cash Me][19cah]](https://19cah.com)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/19cah/algorithms.svg)
+
 <!-- Badges -->
 
 ### Pull Requests are opened
