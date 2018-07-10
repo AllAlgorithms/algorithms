@@ -3,7 +3,6 @@
 // Author: Carlos Abraham Hernandez
 // Repository: github.com/19cah/algorithms
 
-
 #include <iostream>
 
 // Swap elements
