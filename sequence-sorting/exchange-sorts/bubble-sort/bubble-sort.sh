@@ -10,18 +10,18 @@ echo "Unsorted Array:"
 echo ${arr[*]}
 
 # Performing Bubble sort
-for ((i = 0; i<5; i++))
+for ((i = 0; i<${#arr[@]}; i++))
 do
 
-    for((j = i; j<5-i-1; j++))
+    for((j = i; j<${#arr[@]}-i-1; j++))
     do
 
         if ((${arr[j]} > ${arr[$((j+1))]}))
         then
             # swap
-            temp = ${arr[$j]}
-            arr[$j] = ${arr[$((j+1))]}
-            arr[$((j+1))] = $temp
+            temp=${arr[$j]}
+            arr[$j]=${arr[$((j+1))]}
+            arr[$((j+1))]=$temp
         fi
     done
 done
