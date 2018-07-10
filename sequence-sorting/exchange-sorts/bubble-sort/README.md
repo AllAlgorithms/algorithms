@@ -34,3 +34,5 @@ elements left to be compared.
 - [x] [Python](bubble-sort.py)
 - [x] [Bash](bubble-sort.sh)
 - [x] [JavaScript](bubble-sort.js)
+- [x] [PHP](bubble-sort.php)
+- [x] [Ruby](bubble-sort.rb)
