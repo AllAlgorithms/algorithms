@@ -28,13 +28,15 @@ elements left to be compared.
 
 # Implementations
 
-- [x] [C](bubble_sort.c)
-- [x] [C++](bubble_sort.cpp)
-- [x] [Java](BubbleSort.java)
-- [x] [Python](bubble_sort.py)
-- [x] [Bash](bubble_sort.sh)
-- [x] [JavaScript](bubble_sort.js)
-- [x] [PHP](bubble_sort.php)
-- [x] [Ruby](bubble_sort.rb)
-- [x] [Swift](bubble_sort.swift)
-- [x] [Go](bubble_sort.go)
+| Language |  Source |
+| :-: | :-: |
+|	<img src="http://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg" width="30px"> | [bubble_sort.c](bubble_sort.c)|
+|	<img src="http://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" width="30px"> | [bubble_sort.cpp](bubble_sort.cpp)|
+|	<img src="http://konpa.github.io/devicon/devicon.git/icons/java/java-original.svg" width="30px"> | [BubbleSort.java](BubbleSort.java)|
+|	<img src="http://konpa.github.io/devicon/devicon.git/icons/python/python-original.svg" width="30px"> | [bubble_sort.py](bubble_sort.py)|
+|	<img src="http://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="30px"> | [bubble_sort.js](bubble_sort.js)|
+|	<img src="https://cdn-images-1.medium.com/max/600/1*FEE98iWinlZBYkxBAG8MvA.png" width="30px"> | [bubble_sort.sh](bubble_sort.sh)|
+|	<img src="http://konpa.github.io/devicon/devicon.git/icons/php/php-original.svg" width="30px"> | [bubble_sort.php](bubble_sort.php)|
+|	<img src="http://konpa.github.io/devicon/devicon.git/icons/ruby/ruby-original.svg" width="30px"> | [bubble_sort.rb](bubble_sort.rb)|
+|	<img src="http://konpa.github.io/devicon/devicon.git/icons/swift/swift-original.svg" width="30px"> | [bubble_sort.swift](bubble_sort.swift)|
+|	<img src="http://konpa.github.io/devicon/devicon.git/icons/go/go-original.svg" width="30px"> | [bubble_sort.go](bubble_sort.go)|
