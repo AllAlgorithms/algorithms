@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="algorithms.png">
+  <img src="https://cdn.abraham.gq/projects/algorithms/algorithms.svg">
 </p>
 
 > 🧐 Algorithms implementation in several languages 👨🏻‍🚀
