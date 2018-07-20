@@ -2,7 +2,7 @@
   <img src="https://cdn.abraham.gq/projects/algorithms/algorithms.svg">
 </p>
 
-> 🧐 Algorithms implementation in several languages 👨🏻‍🚀
+> ▲lgorithms implementation in several languages 👨🏻‍🚀
 
 <!-- Badges -->
 [![Patreon][patreon]](https://www.patreon.com/19cah)
