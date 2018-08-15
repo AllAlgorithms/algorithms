@@ -5,10 +5,14 @@
 > ▲lgorithms implementation in several languages 👨🏻‍🚀
 
 <!-- Badges -->
-[![Patreon][patreon]](https://www.patreon.com/19cah)
-[![Cash Me][cash-me]](https://cash.me/$19cah)
-[![Cash Me][19cah]](https://19cah.com)
+[![Patreon][patreon]](https://www.patreon.com/abranhe)
+[![Cash Me][cash-me]](https://cash.me/$abranhe)
+[![Paypal][paypal]](https://paypal.me/abranhe)
+[![Abranhe][abranhe]](https://abranhe.com)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/19cah/algorithms.svg)
+
+<!-- Paypal -->
+	<a href="https://paypal.me/abranhe/10"><img src="https://cdn.abraham.gq/badges/paypal.svg"/></a>
 
 <!-- Badges -->
 
@@ -107,14 +111,15 @@ just a paper and pencil.
 
 ## License
 
-This work is licensed under a [MIT License](https://github.com/19cah/algorithms/blob/master/LICENSE)
+This work is licensed under a [MIT License](https://github.com/abranhe/algorithms/blob/master/LICENSE)
 
-[![logo][mit-license]]((https://github.com/19cah/algorithms/blob/master/LICENSE))
+[![logo][mit-license]]((https://github.com/abranhe/algorithms/blob/master/LICENSE))
 
-To the extent possible under law, [Carlos Abraham](https://19cah.com/to/github) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Carlos Abraham](https://go.abranhe.com/github) has waived all copyright and related or neighboring rights to this work.
 
 <!-- Links -->
 [mit-license]: https://cdn.abraham.gq/projects/algorithms/mit-license.png
-[19cah]: https://19cah.com/badge.svg
+[abranhe]: https://cdn.abraham.gq/badges/badge.svg
 [cash-me]: https://cdn.abraham.gq/badges/cash-me.svg
 [patreon]: https://cdn.abraham.gq/badges/patreon.svg
+[paypal]: https://cdn.abraham.gq/badges/paypal.svg
