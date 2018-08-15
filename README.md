@@ -12,7 +12,7 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/19cah/algorithms.svg)
 <!-- Badges -->
 
-### Pull Requests are opened
+### Pull Requests are open
 
 If you have an implementation of any algorithm in any language that is not supported here, you can open a pull request.
 
