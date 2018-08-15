@@ -10,10 +10,6 @@
 [![Paypal][paypal]](https://paypal.me/abranhe)
 [![Abranhe][abranhe]](https://abranhe.com)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/19cah/algorithms.svg)
-
-<!-- Paypal -->
-	<a href="https://paypal.me/abranhe/10"><img src="https://cdn.abraham.gq/badges/paypal.svg"/></a>
-
 <!-- Badges -->
 
 ### Pull Requests are opened
