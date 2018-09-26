@@ -33,7 +33,7 @@ be precisely defined; the instructions should be unambiguously specified for eac
 to solve. And it should be possible to demonstrate that the algorithm converges with
 just a paper and pencil.
 
-- [List](https://en.wikipedia.org/wiki/List_of_algorithms) of algorithms from Wikipedia
+[List](https://en.wikipedia.org/wiki/List_of_algorithms) of algorithms from Wikipedia.
 
 ## Contents
 
@@ -72,7 +72,7 @@ just a paper and pencil.
 - [Binary Search](searches/binary-search/)
 - [Linear Search](searches/linear-search/)
 - [Ternary Search](searches/ternary-search/)
- 
+
 ## Sorting
 
 - [Bubble Sort](sorting/bubble-sort/)
