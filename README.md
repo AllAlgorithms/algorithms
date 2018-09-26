@@ -16,7 +16,7 @@
 
 If you have an implementation of any algorithm in any language that is not supported here, you can open a pull request.
 
-# What is an algorithm?
+## What is an algorithm?
 
 Informally, an algorithm is any well-defined computational procedure that takes
 some value, or set of values, as input and produces some value, or set of values, as
@@ -33,83 +33,59 @@ be precisely defined; the instructions should be unambiguously specified for eac
 to solve. And it should be possible to demonstrate that the algorithm converges with
 just a paper and pencil.
 
-# Content
+- [List](https://en.wikipedia.org/wiki/List_of_algorithms) of algorithms from Wikipedia
 
-[List of alorithms](https://en.wikipedia.org/wiki/List_of_algorithms)
+## Contents
 
--	Combinatorial algorithms
-  -	General combinatorial algorithms
-  -	Graph algorithms
-    -	Graph drawing
-    -	Network theory
-    -	Routing for graphs
-    -	Graph search
-    -	Subgraphs
-  -	Sequence algorithms
-    -	Approximate sequence matching
-    -	Selection algorithms
-    -	Sequence search
-    -	Sequence merging
-    -	Sequence permutations
-    -	Sequence alignment
-    -	[Sequence sorting](sequence-sorting)
-    -	Subsequences
-    -	Substrings
--	Computational mathematics
-  -	Abstract algebra
-  -	Computer algebra
-  -	Geometry
-  -	Number theoretic algorithms
-  -	Numerical algorithms
-    -	Differential equation solving
-    -	Elementary and special functions
-    -	Geometric
-    -	Interpolation and extrapolation
-    -	Linear algebra
-    -	Monte Carlo
-    -	Numerical integration
-    -	Root finding
-  -	Optimization algorithms
--	Computational science
-  -	Astronomy
-  -	Bioinformatics
-  -	Geoscience
-  -	Linguistics
-  -	Medicine
-  -	Physics
-  -	Statistics
--	Computer science
-  -	Computer architecture
-  -	Computer graphics
-  -	Cryptography
-  -	Digital logic
-  -	Machine learning and statistical classification
-  -	Programming language theory
-    -	Parsing
-  -	Quantum algorithms
-  -	Theory of computation and automata
--	Information theory and signal processing
-  -	Coding theory
-    -	Error detection and correction
-    -	Lossless compression algorithms
-    -	Lossy compression algorithms
-  -	Digital signal processing
-    -	Image processing
--	Software engineering
--	Database algorithms
--	Distributed systems algorithms
-  -	Memory allocation and deallocation algorithms
--	Networking
--	Operating systems algorithms
-  -	Process synchronization
-  -	Scheduling
-  -	I/O scheduling
+- [Arithmetic Analysis]()
+- [File Transfer Protocol]()
+- [Graphs](#graphs)
+- [Math]()
+- [Neutral Network]()
+- [Ciphers]()
+- [Data Structures](#data-structures)
+- [Dynamic Programming](#dynamic-programming)
+- [Hashes]()
+- [Searches](#searches)
+- [Sorting](#sorting)
+- [Strings]()
+- [Traversals]()
+
+## Data Structures
+
+- [Binary Search Tree](data-structures/binary-search-tree)
+- [Linked List](data-structures/linked-list)
+- [Tree](data-structures/tree)
+
+## Dynamic Programming
+
+- [Fibonacci Buttom Up](dynamic-programming/fibonacci-bottom-up)
+- [Fibonacci Top Down](dynamic-programming/fibonacci-top-down)
+
+## Graphs
+
+- [Dijkstra](graphs/dijkstra)
+- [Kruskal](graphs/kruskal)
+
+## Searches
+
+- [Binary Search](searches/binary-search/)
+- [Linear Search](searches/linear-search/)
+- [Ternary Search](searches/ternary-search/)
+ 
+## Sorting
+
+- [Bubble Sort](sorting/bubble-sort/)
+- [Heap Sort](sorting/heap-sort/)
+- [Insertion Sort](sorting/insertion-sort/)
+- [Merge Sort](sorting/merge-sort)
+- [Quick Sort](sorting/quick-sort/)
 
 ## License
 
 This work is licensed under a [MIT License](https://github.com/abranhe/algorithms/blob/master/LICENSE)
 
-[![logo][mit-license]]((https://github.com/abranhe/algorithms/blob/master/LICENSE))
+[![MIT IMG][mit-license]]((https://github.com/abranhe/algorithms/blob/master/LICENSE))
 
 To the extent possible under law, [Carlos Abraham](https://go.abranhe.com/github) has waived all copyright and related or neighboring rights to this work.
 
