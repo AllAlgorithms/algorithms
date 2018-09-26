@@ -9,7 +9,7 @@
 [![Cash Me][cash-me]](https://cash.me/$abranhe)
 [![Paypal][paypal]](https://paypal.me/abranhe)
 [![Abranhe][abranhe]](https://abranhe.com)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/19cah/algorithms.svg)
+![All Algorithms](https://img.shields.io/badge/All-%E2%96%B2llgorithms-700606.svg)
 <!-- Badges -->
 
 ### Pull Requests are open
