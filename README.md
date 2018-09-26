@@ -40,7 +40,7 @@ just a paper and pencil.
 - [Arithmetic Analysis]()
 - [File Transfer Protocol]()
 - [Graphs](#graphs)
-- [Math]()
+- [Math](#math)
 - [Neutral Network]()
 - [Ciphers]()
 - [Data Structures](#data-structures)
@@ -66,6 +66,10 @@ just a paper and pencil.
 
 - [Dijkstra](graphs/dijkstra)
 - [Kruskal](graphs/kruskal)
+
+## Math
+
+- [Lucky Numbers](math/lucky-numbers)
 
 ## Searches
 
