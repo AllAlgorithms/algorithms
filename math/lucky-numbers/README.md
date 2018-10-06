@@ -32,7 +32,7 @@ Therefore, set of lucky numbers  `is 1, 3, 7, 13,………`
 | Language |  Source | Run it online |
 | :-: | :-: | :-: |
 |	<img src="http://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg" width="30px">                   |||
-|	<img src="http://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" width="30px">   |[lucky_number.cpp](https://github.com/AllAlgorithms/cpp/tree/master/math/lucky_number.cpp)|[repl.it](https://repl.it/@abranhe/lucky-number)|
+|	<img src="http://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" width="30px">   |[lucky_numbers.cpp](https://github.com/AllAlgorithms/cpp/tree/master/math/lucky_numbers.cpp)|[repl.it](https://repl.it/@abranhe/lucky-number)|
 |	<img src="http://konpa.github.io/devicon/devicon.git/icons/java/java-original.svg" width="30px">             |||
 |	<img src="http://konpa.github.io/devicon/devicon.git/icons/python/python-original.svg" width="30px">         |||
 |	<img src="http://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="30px"> |||
