@@ -4,17 +4,15 @@
 	<br>
 	<br>
 	<br>
-</div>
 
-
-<p align="center">
+<p>
 	<a href="#what-is-an-algorithm">What is an algorithm?</a>&nbsp;&nbsp;&nbsp;
 	<a href="contributing.md">Contributing</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://www.redbubble.com/people/abranhe/works/34285088">Stickers & T-Shirts</a>
 </p>
 
 
-<p align="center">
+<p>
 <a href="https://twitter.com/AllAlgorithms">
   <img src="https://cdn.svgporn.com/logos/twitter.svg" width="17px"> Twitter
 </a>&nbsp;&nbsp;&nbsp;
@@ -30,10 +28,12 @@
 <br>
 
 <a href="https://github.com/AllAlgorithms"><img src="https://cdn.abraham.gq/projects/algorithms/badge.svg" /></a>
-	<a href="https://github.com/abranhe"><img src="https://abranhe.com/badge.svg"></a>
-	<a href="https://cash.me/$abranhe"><img src="https://cdn.abraham.gq/badges/cash-me.svg"></a>
-	<a href="https://paypal.me/abranhe/10"><img src="https://cdn.abraham.gq/badges/paypal.svg"></a>
-	<a href="https://patreon.com/abranhe"><img src="https://cdn.abraham.gq/badges/patreon.svg" /></a>
+<a href="https://github.com/abranhe"><img src="https://abranhe.com/badge.svg"></a>
+<a href="https://cash.me/$abranhe"><img src="https://cdn.abraham.gq/badges/cash-me.svg"></a>
+<a href="https://paypal.me/abranhe/10"><img src="https://cdn.abraham.gq/badges/paypal.svg"></a>
+<a href="https://patreon.com/abranhe"><img src="https://cdn.abraham.gq/badges/patreon.svg" /></a>
+
+</div>
 
 ## See
 
@@ -393,8 +393,8 @@ just a paper and pencil.
 
 ## Maintainers
 
-| [![2][2] <br><sub>Carlos Abraham</sub>][3] | | | | |
-| :-: | :-: | :-: | :-: |
+| [![2][2] <br><sub>Carlos Abraham</sub>][3] |
+| :-: |
 
 <!----------------------------------------------------------------------
 Five columns table template
@@ -407,7 +407,7 @@ Five columns table template
 
 This work is licensed under a [MIT License](https://github.com/abranhe/algorithms/blob/master/LICENSE)
 
-[![MIT IMG][1]]((https://github.com/abranhe/algorithms/blob/master/LICENSE)
+[![MIT IMG][1]](https://github.com/abranhe/algorithms/blob/master/license)
 
 To the extent possible under law, [Carlos Abraham](https://go.abranhe.com/github) has waived all copyright and related or neighboring rights to this work.
 
