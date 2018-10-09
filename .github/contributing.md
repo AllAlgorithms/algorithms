@@ -4,6 +4,8 @@
 
 **General Rules**
 
+[GET STARTED HERE](https://github.com/AllAlgorithms/algorithms/blob/master/.github/category-template/algorithm-template/readme.md) with a template.
+
 <p id="general-rules"></p>
 
 - As much as possible, try to follow the existing format of markdown and code.
