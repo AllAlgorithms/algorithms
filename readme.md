@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" id="top">
 	<img width="500" height="350" src="https://cdn.abraham.gq/projects/algorithms/logo.svg" alt="Algorithms Logo">
 	<br>
 	<br>
@@ -7,7 +7,7 @@
 
 <p>
 	<a href="#what-is-an-algorithm">What is an algorithm?</a>&nbsp;&nbsp;&nbsp;
-	<a href="contributing.md">Contributing</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://github.com/AllAlgorithms/algorithms/blob/master/.github/contributing.md">Contributing</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://www.redbubble.com/people/abranhe/works/34285088">Stickers & T-Shirts</a>
 </p>
 
@@ -96,78 +96,79 @@ just a paper and pencil.
 
 ## [Artificial Intelligence](artificial-intelligence)
 
-- [Density-based spatial clustering of applications with noise (DBSCAN Clustering)](artificial-intelligence/)
-- [Interactive Self-Organizing Data Analysis Technique yAy! (ISODATA Clustering)](artificial-intelligence/)
-- [Linear Regression](artificial-intelligence/)
-- [Logistic Regression](artificial-intelligence/)
-- [Neutral Style Transfer](artificial-intelligence/)
-- [SATisfiable (SAT)](artificial-intelligence/)
-- [Travelling salesman problem (TSP)](artificial-intelligence/)
-- [A* (A Star)](artificial-intelligence/)
-- [Artificial Neutral Network](artificial-intelligence/)
-- [Convolutional Neutral Network](artificial-intelligence/)
-- [Decision Tree](artificial-intelligence/)
-- [Factorization Machines](artificial-intelligence/)
-- [Gaussian Mixture Model](artificial-intelligence/)
-- [Gradient Boosting Trees](artificial-intelligence/)
-- [Hierachical Clustering](artificial-intelligence/)
-- [Image Processing](artificial-intelligence/)
-- [K Nearest Neighbors](artificial-intelligence/)
-- [K Means](artificial-intelligence/)
-- [Minimax](artificial-intelligence/)
-- [Native Bayes](artificial-intelligence/)
-- [Nearest Sequence Memory](artificial-intelligence/)
-- [Neutral Network](artificial-intelligence/)
-- [Perceptron](artificial-intelligence/)
-- [Principal Component Analysis](artificial-intelligence/)
-- [Q Learing](artificial-intelligence/)
-- [Random Forests](artificial-intelligence/)
+- [Density-based spatial clustering of applications with noise (DBSCAN Clustering)](artificial-intelligence/dbscan)
+- [Interactive Self-Organizing Data Analysis Technique yAy! (ISODATA Clustering)](artificial-intelligence/isodata)
+- [Linear Regression](artificial-intelligence/linear-regression)
+- [Logistic Regression](artificial-intelligence/logistic-regression)
+- [Neutral Style Transfer](artificial-intelligence/neutral-style-transfer)
+- [SATisfiable (SAT)](artificial-intelligence/sat)
+- [Travelling salesman problem (TSP)](artificial-intelligence/tsp)
+- [A* (A Star)](artificial-intelligence/a-star)
+- [Artificial Neutral Network](artificial-intelligence/artificial-neutral-network)
+- [Convolutional Neutral Network](artificial-intelligence/convolutional-neutral-network)
+- [Decision Tree](artificial-intelligence/decision-tree)
+- [Factorization Machines](artificial-intelligence/factorization-machines)
+- [Gaussian Mixture Model](artificial-intelligence/gaussian-mixtrue-model)
+- [Gradient Boosting Trees](artificial-intelligence/gradient-boostring-trees)
+- [Hierachical Clustering](artificial-intelligence/hierachical-clustering)
+- [Image Processing](artificial-intelligence/image-processing)
+- [K Nearest Neighbors](artificial-intelligence/k-nearest-neighbors)
+- [K Means](artificial-intelligence/k-means)
+- [Minimax](artificial-intelligence/minimax)
+- [Native Bayes](artificial-intelligence/native-bayes)
+- [Nearest Sequence Memory](artificial-intelligence/nearest-sequence-memory)
+- [Neutral Network](artificial-intelligence/neutral-network)
+- [Perceptron](artificial-intelligence/perceptron)
+- [Principal Component Analysis](artificial-intelligence/principal-component-analysis)
+- [Q Learing](artificial-intelligence/q-learning)
+- [Random Forests](artificial-intelligence/random-forest)
+- [Restricted Boltzman Machine](artificial-intelligence/restricted-boltzman-machine)
 
 ## [Backtracking](backtracking)
 
-- [Algorithm X](backtracking/)
-- [Crossword Puzzle](backtracking/)
-- [Knight Tour](backtracking/)
-- [M Coloring Problem](backtracking/)
-- [N Queen](backtracking/)
-- [Number of ways in Maze](backtracking/)
-- [Partitions of set](backtracking/)
-- [Permutation of Strings](backtracking/)
-- [Powerset](backtracking/)
-- [Rat in maze](backtracking/)
-- [Subset Sum](backtracking/)
-- [Sudoku Solve](backtracking/)
+- [Algorithm X](backtracking/algorithm-x)
+- [Crossword Puzzle](backtracking/crossword-Puzzle)
+- [Knight Tour](backtracking/knight-tour)
+- [M Coloring Problem](backtracking/m-coloring-problem)
+- [N Queen](backtracking/n-queen)
+- [Number of ways in Maze](backtracking/number-of-ways-in-maze)
+- [Partitions of set](backtracking/partitions-of-set)
+- [Permutation of Strings](backtracking/permutation-of-strings)
+- [Powerset](backtracking/powerset)
+- [Rat in maze](backtracking/rat-in-maze)
+- [Subset Sum](backtracking/subset-sum)
+- [Sudoku Solve](backtracking/sudoku-solve)
 
 ## [Bit Manipulation](bit-manipulation)
 
-- [Addition using bits](bit-manipulation/)
-- [Bit divisor](bit-manipulation/)
-- [Byte swapper](bit-manipulation/)
-- [Convert numbers to binary](bit-manipulation/)
-- [Count set bits](bit-manipulation/)
-- [Flip bits](bit-manipulation/)
-- [Hamming distance](bit-manipulation/)
-- [Invert bit](bit-manipulation/)
-- [Lonely integer](bit-manipulation/)
-- [Magic Number](bit-manipulation/)
-- [Maximum XOR Value](bit-manipulation/)
-- [Power of 2](bit-manipulation/)
-- [Subset Generation](bit-manipulation/)
-- [Sum binary numbers](bit-manipulation/)
-- [Sum equals XOR](bit-manipulation/)
-- [Thrice unique number](bit-manipulation/)
-- [Twice unique number](bit-manipulation/)
-- [XOR Swap](bit-manipulation/)
+- [Addition using bits](bit-manipulation/adding-using-bits)
+- [Bit divisor](bit-manipulation/bit-divisor)
+- [Byte swapper](bit-manipulation/byte-swapper)
+- [Convert numbers to binary](bit-manipulation/convert-numbers-to-binary)
+- [Count set bits](bit-manipulation/count-set-bits)
+- [Flip bits](bit-manipulation/flip-bits)
+- [Hamming distance](bit-manipulation/hamming-distace)
+- [Invert bit](bit-manipulation/invert-bit)
+- [Lonely integer](bit-manipulation/lonely-integer)
+- [Magic Number](bit-manipulation/magic-number)
+- [Maximum XOR Value](bit-manipulation/maximun-xor-value)
+- [Power of 2](bit-manipulation/power-of-2)
+- [Subset Generation](bit-manipulation/subset-generation)
+- [Sum binary numbers](bit-manipulation/sum-binary-numbers)
+- [Sum equals XOR](bit-manipulation/sum-equals-xor)
+- [Thrice unique number](bit-manipulation/thrice-unique-number)
+- [Twice unique number](bit-manipulation/twice-unique-number)
+- [XOR Swap](bit-manipulation/xor-swap)
 
 ## [Cellular Automaton](cellular-automaton)
 
 - [Brians Brain](cellular-automaton/brians-brain)
 - [Conways Game of life](cellular-automaton/conways-game-of-life)
-- [Elementary Cellular Automata](cellular-automaton/)
-- [Generic Algorithm](cellular-automaton/)
-- [Langtons Ant](cellular-automaton/)
-- [Nobili Cellular Automata](cellular-automaton/)
-- [Von Neoumann Cellular Automata](cellular-automaton/)
+- [Elementary Cellular Automata](cellular-automaton/elementary-cellular-automata)
+- [Generic Algorithm](cellular-automaton/generic-algorithm)
+- [Langtons Ant](cellular-automaton/langtons-ant)
+- [Nobili Cellular Automata](cellular-automaton/nobili-cellular-automata)
+- [Von Neoumann Cellular Automata](cellular-automaton/von-neoumann-cellular-automata)
 
 ## [Computational Geometry](computational-geometry)
 
@@ -395,6 +396,7 @@ just a paper and pencil.
 
 | [![2][2] <br><sub>Carlos Abraham</sub>][3] |
 | :-: |
+|  |
 
 <!----------------------------------------------------------------------
 Five columns table template
@@ -405,7 +407,7 @@ Five columns table template
 
 ## License
 
-This work is licensed under a [MIT License](https://github.com/abranhe/algorithms/blob/master/LICENSE)
+This work is released under [MIT License](https://github.com/abranhe/algorithms/blob/master/license)
 
 [![MIT IMG][1]](https://github.com/abranhe/algorithms/blob/master/license)
 
