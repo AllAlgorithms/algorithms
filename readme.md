@@ -1,5 +1,11 @@
 <div align="center" id="top">
-	<img width="500" height="350" src="https://cdn.abraham.gq/projects/algorithms/logo.svg" alt="Algorithms Logo">
+	<br>
+	<br>
+	<br>
+	<br>
+	<img width="500" height="350" src="https://cdn.abranhe.com/projects/algorithms/logo.svg" alt="Algorithms Logo">
+	<br>
+	<br>
 	<br>
 	<br>
 	<br>
@@ -27,11 +33,11 @@
 </p>
 <br>
 
-<a href="https://github.com/AllAlgorithms"><img src="https://cdn.abraham.gq/projects/algorithms/badge.svg" /></a>
+<a href="https://github.com/AllAlgorithms"><img src="https://cdn.abranhe.com/projects/algorithms/badge.svg" /></a>
 <a href="https://github.com/abranhe"><img src="https://abranhe.com/badge.svg"></a>
-<a href="https://cash.me/$abranhe"><img src="https://cdn.abraham.gq/badges/cash-me.svg"></a>
-<a href="https://paypal.me/abranhe/10"><img src="https://cdn.abraham.gq/badges/paypal.svg"></a>
-<a href="https://patreon.com/abranhe"><img src="https://cdn.abraham.gq/badges/patreon.svg" /></a>
+<a href="https://cash.me/$abranhe"><img src="https://cdn.abranhe.com/badges/cash-me.svg"></a>
+<a href="https://paypal.me/abranhe/10"><img src="https://cdn.abranhe.com/badges/paypal.svg"></a>
+<a href="https://patreon.com/abranhe"><img src="https://cdn.abranhe.com/badges/patreon.svg" /></a>
 
 </div>
 
@@ -421,7 +427,7 @@ To the extent possible under law, [Carlos Abraham](https://go.abranhe.com/github
 </div>
 
 <!-------------------Markdown Images Links ---------------------------------->
-[1]: https://cdn.abraham.gq/projects/algorithms/mit-license.png
+[1]: https://cdn.abranhe.com/projects/algorithms/mit-license.png
 
 <!-- Maintainers -->
 [2]: https://avatars2.githubusercontent.com/u/21347264?s=70
