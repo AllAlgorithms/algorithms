@@ -1,0 +1,4 @@
+[build]
+  base    = "website"
+  publish = "website/build/algorithms"
+  command = "npm run build"
