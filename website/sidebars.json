@@ -1,0 +1,253 @@
+{
+  "algorithms": {
+    "Artificial Intelligence": [
+      "dbscan",
+      "isodata",
+      "linear-regression",
+      "logistic-regression",
+      "neutral-style-transfer",
+      "sat",
+      "tsp",
+      "a-star",
+      "artificial-neutral-network",
+      "convolutional-neutral-network",
+      "decision-tree",
+      "factorization-machines",
+      "gaussian-mixtrue-model",
+      "gradient-boostring-trees",
+      "hierachical-clustering",
+      "image-processing",
+      "k-nearest-neighbors",
+      "k-means",
+      "minimax",
+      "native-bayes",
+      "nearest-sequence-memory",
+      "neutral-network",
+      "perceptron",
+      "principal-component-analysis",
+      "q-learning",
+      "random-forest",
+      "restricted-boltzman-machine"
+    ],
+    "Backtracking": [
+      "algorithm-x",
+      "crossword-puzzle",
+      "knight-tour",
+      "m-coloring-problem",
+      "n-queen",
+      "number-of-ways-in-maze",
+      "partitions-of-set",
+      "permutation-of-strings",
+      "powerset",
+      "rat-in-maze",
+      "subset-sum",
+      "sudoku-solve"
+    ],
+    "Bit manipulation": [
+      "adding-using-bits",
+      "bit-divisor",
+      "byte-swapper",
+      "convert-numbers-to-binary",
+      "count-set-bits",
+      "flip-bits",
+      "hamming-distace",
+      "invert-bit",
+      "lonely-integer",
+      "magic-number",
+      "maximun-xor-value",
+      "power-of-2",
+      "subset-generation",
+      "sum-binary-numbers",
+      "sum-equals-xor",
+      "thrice-unique-number",
+      "twice-unique-number",
+      "xor-swap"
+    ],
+    "Cellular automaton": [ 
+      "brians-brain",
+      "conways-game-of-life",
+      "elementary-cellular-automata",
+      "generic-algorithm",
+      "langtons-ant",
+      "nobili-cellular-automata",
+      "von-neoumann-cellular-automata"
+    ],
+    "Computational geometry": [
+      "2d-line-intersection",
+      "2d-separating-axis-test",
+      "area-of-polygon",
+      "area-of-triangle",
+      "axis-aligned-bounding-box-collision",
+      "bresenham-line",
+      "chans-algorithm",
+      "cohen-sutherland-lineclip",
+      "distance-between-points",
+      "graham-scan",
+      "halfplane-intersection",
+      "jarvis-march",
+      "quickull",
+      "sphere-tetrahedron-intersection",
+      "sutherland-hodgeman-clipping"
+    ],
+    "Cryptography": [ 
+      "affine-cipher",
+      "atbash-cipher",
+      "autokey-cipher",
+      "baconian-cipher",
+      "caesar-cipher",
+      "colummnar-cipher",
+      "vigenere-cipher"
+    ],
+    "Data structures": [ 
+      "bag",  "hashes",  "linked-list",  "list",  "queue",  "stack",  "tree"
+    ],
+    "Divide and conquer": [
+      "strassen-matrix-manipulation",
+      "closest-pair-of-point",
+      "inversion-count",
+      "karatsuba-multiplication",
+      "maximum-contiguous-subsequence-sum",
+      "merge-sort-using-divide-and-conquer",
+      "quick-sort-using-divide-and-conquer",
+      "tournament-method-to-find-min-max",
+      "warnock-algorithm",
+      "x-power-y"
+    ],
+    "Dynamic programming": [ 
+      "array-median",  "optima-binary-search-tree",  "binomial-coefficient"
+    ],
+    "Gaming theory": [ 
+      "nim-next-best-move-game",  "nim-win-loss-game",  "grundy-numbers-kayle-game"
+    ],
+    "Graphs": [
+      "bipartite-check",  "adjacency-lists-graphs-representation",  "astar-algorithm"
+    ],
+    "Greedy algorithms": [
+      "activity-selection",  "dijkstra-shortest-path",  "egyptian-fraction"
+    ],
+    "Math": [ 
+      "2-sum",
+      "add-polynomials",
+      "amicable-numbers",
+      "armstrong-numbers",
+      "automorphic-numbers",
+      "average-stream-numbers",
+      "babylonian-method",
+      "binomial-coefficient",
+      "catalan-number",
+      "check-is-square",
+      "convolution",
+      "coprime-numbers",
+      "count-digits",
+      "count-trailing-zeroes",
+      "decoding-of-string",
+      "delannoy-number",
+      "derangements",
+      "dfa-division",
+      "diophantine",
+      "divided-differences",
+      "euler-totient",
+      "exponentiation-power",
+      "factorial",
+      "fast-fourier-transform",
+      "fast-inverse-square-root"
+    ],
+    "Networking": [ 
+      "packet-sniffer",  "determine-endianess",  "validate-ip"
+    ],
+    "Numerical analysis": [ 
+      "integral",  "monte-carlo",  "runge-kutt"
+    ],
+    "Randomized algorithms": [
+      "birthday-paradox",
+      "karger-minimum-cut-algorithm",
+      "kth-smallest-element-algorithm",
+      "random-from-stream",
+      "random-node-linked-list",
+      "randomized-quicksort",
+      "reservoir-sampling",
+      "shuffle-an-array"
+      ],
+    "Searches": [
+      "binary-search",
+      "exponential-search",
+      "fibonacci-search",
+      "fuzzy-search",
+      "interpolation-search",
+      "jump-search",
+      "linear-search",
+      "ternay-search"
+    ],
+    "Selections algorithms": [
+      "median-of-medians",  "quick-select"
+    ],
+    "Sorting": [ 
+      "bead-sort",
+      "bogo-sort",
+      "bubble-sort",
+      "bucket-sort",
+      "circle-sort",
+      "comb-sort",
+      "counting-sort",
+      "cycle-sort",
+      "flash-sort",
+      "gnome-sort",
+      "heap-sort",
+      "insertion-sort",
+      "intro-sort",
+      "median-sort",
+      "merge-sort",
+      "pipeonhole-sort",
+      "quick-sort",
+      "radix-sort",
+      "selection-sort",
+      "shaker-sort",
+      "shell-sort",
+      "sleep-sort",
+      "stooge-sort",
+      "topological-sort",
+      "tree-sort"
+    ],
+    "Strings": [
+      "aho-corasick-algorithm",
+      "anagram-search",
+      "arithmetic-on-large-numbers",
+      "boyer-moore-algorithm",
+      "finite-automata",
+      "kasai-algorithm",
+      "kmp-algorithm",
+      "levenshteing-distance",
+      "lipogram-checker"
+    ],
+    "Online challenges": [
+      "coderbyte",
+      "code-chef",
+      "code-eval",
+      "hackerearth",
+      "hackerrank",
+      "leetcode",
+      "project-euler",
+      "rosalind",
+      "spoj",
+      "top-coder"
+    ],
+    "No category": [ 
+      "average",
+      "biggest-of-n-numbers",
+      "biggest-suffix",
+      "fifteen-puzzle",
+      "jaccard-similarity",
+      "jose-phus-problem",
+      "lapindrom-checker",
+      "leap-year",
+      "magic-square",
+      "majority-element",
+      "minimum-subarray-size-with-degree",
+      "no-operator-addition",
+      "paint-fill",
+      "split-list",
+      "tokenizer",
+      "unique-number"
+    ]
+  }
+}
