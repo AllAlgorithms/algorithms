@@ -90,7 +90,7 @@ DBSCAN visits each point of the database, possibly multiple times (e.g., as cand
 
 > DBSCAN can find non-linearly separable clusters. This dataset cannot be adequately clustered with k-means or Gaussian Mixture EM clustering
 
-## Implementations
+## Implementation
 
 | | Language | Link |
 |:-: | :-: | :-: |
