@@ -217,7 +217,7 @@ module.exports = [
     ]
   },
   {
-    category: 'Serches',
+    category: 'Searches',
     algorithmList: [
       'Binary Search',
       'Exponential Search',
