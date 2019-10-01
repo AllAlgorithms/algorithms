@@ -246,7 +246,7 @@ just a paper and pencil.
 
 - [Bipartite Check](graphs/)
 - [Adjacency Lists graphs representation](graphs/)
-- [Astar Algorithm](graphs/)
+- [A* (A Star)](https://allalgorithms.com/docs/a-star)
 
 ## [Greedy Algorithms](greedy-algorithms)
 
