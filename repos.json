@@ -28,5 +28,7 @@
     "apple-script",
     "kotlin",
     "rust",
-    "racket"
+    "racket",
+    "typescript",
+    "julia"
 ]
