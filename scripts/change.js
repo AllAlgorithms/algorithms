@@ -35,8 +35,8 @@ const files = [
     to: '.github/contributing.md',
   },
   {
-    template: 'code-of-conduct',
-    to: '.github/code-of-conduct.md',
+    template: 'issue-template',
+    to: '.github/issue-template.md',
   },
   {
     template: 'pull-request-template',
@@ -59,19 +59,16 @@ try {
         const filename = `${repo}/${file.to}`;
         const data = bufferFile(file.template);
 
-        if (!exist(filename)) {
-          fs.writeFile(filename, data, 'utf8', (err) => {
-            if (err) {
-              console.log(err);
-              return;
-            }
-
-            console.log('Done!');
-          });
-        }
+        fs.writeFile(filename, data, 'utf8', (err) => {
+          if (err) {
+            console.log(err);
+            return;
+          }
+        });
       });
     }
   });
+  console.log(chalk.green('Done!'));
 } catch (_) {
   console.log(chalk.red('Something went wrong cloning the repos.'));
 }
