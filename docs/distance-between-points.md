@@ -119,11 +119,38 @@ manhattan_distance(P, Q) {
 }
 ```
 
+## Minkowski Distance
+
+**Minkowski Distance** is a metric in a normed vector space which can be considered as a generalization of both the Euclidean distance and the Manhattan distance. It is named after the German mathematician Hermann Minkowski.
+
+### Formula
+
+The formula below applies when calculating the Minkowski distance over an N-dimensional grid:
+
+$P = (p_1, p_2, ..., p_n)\\$
+$Q = (q_1, q_2, ..., q_n)\\$
+$d(P, Q) = \left( \sum_{i=1}^{n} |p_i - q_i|^m \right) ^ {\frac{1}{m}}$
+
+### Algorithm
+
+```
+/* Assume that P and Q are N-dimensional arrays */
+manhattan_distance(P, Q) {
+   N = dim(P)
+   distance = 0.0                             /* initialize running sum */
+   for dimension i from 1 to N {              /* iterate over all dimensions */
+      distance = distance + abs(P[i] - Q[i])^m  /* sum the processed differences */
+   }
+   return distance^(1/m);
+}
+```
+
+
 ## Performance
 
-Both algorithms for each respective distance definition are linear
+Both Euclidean and Manhattan distance algorithms for each respective distance definition are linear
 (O(n)) with respect to the number of dimensions with which each point is
-represented.
+represented. The Minkowski distance algorithm's complexity is around O(nm) for n dimensional vector and the factor power m.
 
 
 ## Implementations
@@ -136,11 +163,13 @@ represented.
 
 - [Euclidean distance][euclidean]
 - [Manhattan distance][manhattan]
+- [Minkowski distance][minkowski]
 - [Norm][norm] a generalization of the concept of distance
 - [L<sup>p</sup> space][lp-space] a generalization of a class of norms
 
 
 [euclidean]: https://en.wikipedia.org/wiki/Euclidean_distance
 [manhattan]: https://en.wikipedia.org/wiki/Taxicab_geometry
+[minkowski]: https://en.wikipedia.org/wiki/Minkowski_distance
 [norm]: https://en.wikipedia.org/wiki/Norm_(mathematics)
 [lp-space]: https://en.wikipedia.org/wiki/Lp_space
