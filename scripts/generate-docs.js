@@ -1,8 +1,7 @@
 /**
- * 
  * Do not use this file!
  * it was just created to generate all the initial algorithms.
- * 
+ *
  * @author Carlos Abraham Hernandez (abranhe.com) <abraham@abranhe.com>
  */
 'use strict';

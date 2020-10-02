@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "axios": "^0.20.0"
+  },
+  "devDependencies": {
+    "chalk": "^4.1.0",
+    "command-exists": "^1.2.9",
+    "dtfe": "^2.0.0",
+    "shelljs": "^0.8.4"
+  }
+}
