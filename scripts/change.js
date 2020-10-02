@@ -51,8 +51,11 @@ if (exist('./projects')) {
 try {
   repos.forEach((repo) => {
     // To create folders, and files individually
-    // const global = `${repo}/.github`;
-    // shell.mkdir(global);
+    // const global = `${repo}/src/.gitkeep`;
+
+    // if (!exist(global)) {
+    //   shell.touch(global);
+    // }
 
     if (exist(repo)) {
       files.forEach((file) => {

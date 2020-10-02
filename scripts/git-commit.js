@@ -10,7 +10,8 @@ const shell = require('shelljs');
 const commandExists = require('command-exists');
 const repos = require('../repos.json');
 
-const commitMessage = 'refactofing!';
+const args = process.argv.slice(2);
+const commitMessage = args[0] || 'refactofing!';
 
 commandExists('git')
   .then(() => {
