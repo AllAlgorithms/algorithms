@@ -6,27 +6,28 @@
 'use strict';
 const fs = require('fs');
 const axios = require('axios');
+const chalk = require('chalk');
 
 const getReposList = async () => {
   const endpoint = 'https://api.github.com/orgs/allalgorithms/repos';
 
   return await axios
-    .get(endpoint)
+    .get(endpoint, { params: { per_page: 100 } })
     .then((res) => res.data.map((repo) => repo.name))
     .catch((_) => {});
 };
 
 (async () => {
   const repos = await getReposList();
-  // TODO: check for `libraries, .github`
-  const data = JSON.stringify(repos.filter((repo) => repo !== 'algorithms'));
+  const ignore = ['algorithms', '.github'];
+  const data = repos.filter((repo) => !ignore.includes(repo));
 
-  fs.writeFile('repos.json', data, 'utf8', (err) => {
+  fs.writeFile('repos.json', JSON.stringify(data, null, 4), 'utf8', (err) => {
     if (err) {
-      console.log(err);
+      console.log(chalk.red(`Error: ${err}`));
       return;
     }
 
-    console.log('Done!');
+    console.log(chalk.green('Done!'));
   });
 })();

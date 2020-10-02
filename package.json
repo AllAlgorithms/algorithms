@@ -1,4 +1,13 @@
 {
+  "scripts": {
+    "repos": "node scripts/repos.js",
+    "change": "node scripts/change.js",
+    "add": "node scripts/git-add.js",
+    "clone": "node scripts/git-clone.js",
+    "commit": "node scripts/git-commit.js",
+    "pull": "node scripts/git-pull.js",
+    "push": "node scripts/git-push.js"
+  },
   "dependencies": {
     "axios": "^0.20.0"
   },
