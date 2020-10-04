@@ -1,3 +1,8 @@
 ## Contributing
 
 > Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
+
+
+To test your contributions locally, if you have [Docker][] installed you can run `./scripts/docker-yarn-start.sh` which will run `yarn` and serve pages locally (by default on port `30000`).
+
+[Docker]: https://www.docker.com/
