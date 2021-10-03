@@ -269,7 +269,7 @@ module.exports = [
       'Aho-Corasick Algorithm',
       'Anagram Search',
       'Arithmetic on large numbers',
-      'Boyer Moore Algorithm',
+      'Boyer-Moore Algorithm',
       'Finite Automata',
       'Kasai Algorithm',
       'Kmp Algorithm',

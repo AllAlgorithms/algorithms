@@ -363,7 +363,7 @@ just a paper and pencil.
 - [Aho-Corasick Algorithm](strings)
 - [Anagram Search](strings)
 - [Arithmetic on large numbers](strings)
-- [Boyer Moore Algorithm](strings)
+- [Boyer-Moore Algorithm](strings)
 - [Finite Automata](strings)
 - [Kasai Algorithm](strings)
 - [Kmp Algorithm](strings)

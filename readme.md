@@ -352,7 +352,7 @@ just a paper and pencil.
 - [Aho-Corasick algorithm](https://allalgorithms.com/docs/aho-corasick-algorithm)
 - [Anagram search](https://allalgorithms.com/docs/anagram-search)
 - [Arithmetic on large numbers](https://allalgorithms.com/docs/arithmetic-on-large-numbers)
-- [Boyer moore algorithm](https://allalgorithms.com/docs/boyer-moore-algorithm)
+- [Boyer-Moore algorithm](https://allalgorithms.com/docs/boyer-moore-algorithm)
 - [Finite automata](https://allalgorithms.com/docs/finite-automata)
 - [Kasai algorithm](https://allalgorithms.com/docs/kasai-algorithm)
 - [Kmp algorithm](https://allalgorithms.com/docs/kmp-algorithm)
