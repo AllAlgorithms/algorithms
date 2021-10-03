@@ -98,7 +98,7 @@ module.exports = [
       'Graham Scan',
       'Halfplane intersection',
       'Jarvis March',
-      'Quickull',
+      'Quickhull',
       'Sphere tetrahedron intersection',
       'Sutherland Hodgeman clipping'
     ]

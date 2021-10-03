@@ -194,7 +194,7 @@ just a paper and pencil.
 - [Graham Scan](computational-geometry/)
 - [Halfplane intersection](computational-geometry/)
 - [Jarvis March](computational-geometry/)
-- [Quickull](computational-geometry/)
+- [Quickhull](computational-geometry/)
 - [Sphere tetrahedron intersection](computational-geometry/)
 - [Sutherland Hodgeman clipping](computational-geometry/)
 

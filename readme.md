@@ -193,7 +193,7 @@ just a paper and pencil.
 - [Graham scan](https://allalgorithms.com/docs/graham-scan)
 - [Halfplane intersection](https://allalgorithms.com/docs/halfplane-intersection)
 - [Jarvis march](https://allalgorithms.com/docs/jarvis-march)
-- [Quickull](https://allalgorithms.com/docs/quickull)
+- [Quickhull](https://allalgorithms.com/docs/quickhull)
 - [Sphere tetrahedron intersection](https://allalgorithms.com/docs/sphere-tetrahedron-intersection)
 - [Sutherland hodgeman clipping](https://allalgorithms.com/docs/sutherland-hodgeman-clipping)
 

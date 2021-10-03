@@ -85,7 +85,7 @@
       "graham-scan",
       "halfplane-intersection",
       "jarvis-march",
-      "quickull",
+      "quickhull",
       "sphere-tetrahedron-intersection",
       "sutherland-hodgeman-clipping"
     ],
