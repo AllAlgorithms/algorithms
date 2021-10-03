@@ -280,7 +280,7 @@ just a paper and pencil.
 - [Euler Totient](math/)
 - [Exponentiation Power](math/)
 - [Factorial](math/factorial)
-- [Fast Fourier transform](math/)
+- [Fast Fourier Transform](math/)
 - [Fast inverse (sqrt) Square Root](math/)
 
 ## [Networking](networking)

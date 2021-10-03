@@ -278,7 +278,7 @@ just a paper and pencil.
 - [Euler totient](https://allalgorithms.com/docs/euler-totient)
 - [Exponentiation power](https://allalgorithms.com/docs/exponentiation-power)
 - [Factorial](https://allalgorithms.com/docs/factorial)
-- [Fast fourier transform](https://allalgorithms.com/docs/fast-fourier-transform)
+- [Fast Fourier Transform](https://allalgorithms.com/docs/fast-fourier-transform)
 - [Fast inverse square root](https://allalgorithms.com/docs/fast-inverse-square-root)
 
 ## Networking

@@ -176,7 +176,7 @@ module.exports = [
       'Euler Totient',
       'Exponentiation Power',
       'Factorial',
-      'Fast Fourier transform',
+      'Fast Fourier Transform',
       'Fast inverse Square Root'
     ]
   },
