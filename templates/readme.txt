@@ -367,7 +367,7 @@ just a paper and pencil.
 - [Finite Automata](strings)
 - [Kasai Algorithm](strings)
 - [Kmp Algorithm](strings)
-- [Levenshteing Distance](strings)
+- [Levenshtein Distance](strings)
 - [Lipogram Checker](strings)
 
 ## [Online Challenges](online-challenges)

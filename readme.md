@@ -356,7 +356,7 @@ just a paper and pencil.
 - [Finite automata](https://allalgorithms.com/docs/finite-automata)
 - [Kasai algorithm](https://allalgorithms.com/docs/kasai-algorithm)
 - [Kmp algorithm](https://allalgorithms.com/docs/kmp-algorithm)
-- [Levenshteing distance](https://allalgorithms.com/docs/levenshteing-distance)
+- [Levenshtein distance](https://allalgorithms.com/docs/levenshtein-distance)
 - [Lipogram checker](https://allalgorithms.com/docs/lipogram-checker)
 
 ## Online challenges

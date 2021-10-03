@@ -216,7 +216,7 @@
       "finite-automata",
       "kasai-algorithm",
       "kmp-algorithm",
-      "levenshteing-distance",
+      "levenshtein-distance",
       "lipogram-checker"
     ],
     "Online challenges": [

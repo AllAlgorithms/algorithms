@@ -273,7 +273,7 @@ module.exports = [
       'Finite Automata',
       'Kasai Algorithm',
       'Kmp Algorithm',
-      'Levenshteing Distance',
+      'Levenshtein Distance',
       'Lipogram Checker'
     ]
   },
