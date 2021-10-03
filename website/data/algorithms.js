@@ -266,7 +266,7 @@ module.exports = [
   {
     category: 'Strings',
     algorithmList: [
-      'Aho Corasick Algorithm',
+      'Aho-Corasick Algorithm',
       'Anagram Search',
       'Arithmetic on large numbers',
       'Boyer Moore Algorithm',

@@ -349,7 +349,7 @@ just a paper and pencil.
 
 ## Strings
 
-- [Aho corasick algorithm](https://allalgorithms.com/docs/aho-corasick-algorithm)
+- [Aho-Corasick algorithm](https://allalgorithms.com/docs/aho-corasick-algorithm)
 - [Anagram search](https://allalgorithms.com/docs/anagram-search)
 - [Arithmetic on large numbers](https://allalgorithms.com/docs/arithmetic-on-large-numbers)
 - [Boyer moore algorithm](https://allalgorithms.com/docs/boyer-moore-algorithm)

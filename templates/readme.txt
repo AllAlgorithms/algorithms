@@ -360,7 +360,7 @@ just a paper and pencil.
 
 ## [Strings](strings)
 
-- [Aho Corasick Algorithm](strings)
+- [Aho-Corasick Algorithm](strings)
 - [Anagram Search](strings)
 - [Arithmetic on large numbers](strings)
 - [Boyer Moore Algorithm](strings)
