@@ -347,7 +347,7 @@ just a paper and pencil.
 - [Intro Sort](sorting/)
 - [Median Sort](sorting/)
 - [Merge Sort](sorting/)
-- [Pipeonhole Sort](sorting/)
+- [Pigeonhole Sort](sorting/)
 - [Quick Sort](sorting/)
 - [Radix Sort](sorting/)
 - [Selection Sort](sorting/)

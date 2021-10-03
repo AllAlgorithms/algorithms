@@ -197,7 +197,7 @@
       "intro-sort",
       "median-sort",
       "merge-sort",
-      "pipeonhole-sort",
+      "pigeonhole-sort",
       "quick-sort",
       "radix-sort",
       "selection-sort",

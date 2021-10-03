@@ -336,7 +336,7 @@ just a paper and pencil.
 - [Insertion sort](https://allalgorithms.com/docs/insertion-sort)
 - [Intro sort](https://allalgorithms.com/docs/intro-sort)
 - [Merge sort](https://allalgorithms.com/docs/merge-sort)
-- [Pipeonhole sort](https://allalgorithms.com/docs/pipeonhole-sort)
+- [Pigeonhole sort](https://allalgorithms.com/docs/pigeonhole-sort)
 - [Quick sort](https://allalgorithms.com/docs/quick-sort)
 - [Radix sort](https://allalgorithms.com/docs/radix-sort)
 - [Selection sort](https://allalgorithms.com/docs/selection-sort)

@@ -251,7 +251,7 @@ module.exports = [
       'Intro Sort',
       'Median Sort',
       'Merge Sort',
-      'Pipeonhole Sort',
+      'Pigeonhole Sort',
       'Quick Sort',
       'Radix Sort',
       'Selection Sort',
