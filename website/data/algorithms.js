@@ -100,7 +100,7 @@ module.exports = [
       'Jarvis March',
       'Quickhull',
       'Sphere tetrahedron intersection',
-      'Sutherland Hodgeman clipping'
+      'Sutherland-Hodgman clipping'
     ]
   },
   {

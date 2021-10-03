@@ -195,7 +195,7 @@ just a paper and pencil.
 - [Jarvis march](https://allalgorithms.com/docs/jarvis-march)
 - [Quickhull](https://allalgorithms.com/docs/quickhull)
 - [Sphere tetrahedron intersection](https://allalgorithms.com/docs/sphere-tetrahedron-intersection)
-- [Sutherland hodgeman clipping](https://allalgorithms.com/docs/sutherland-hodgeman-clipping)
+- [Sutherland-Hodgman clipping](https://allalgorithms.com/docs/sutherland-hodgman-clipping)
 
 ## Cryptography
 

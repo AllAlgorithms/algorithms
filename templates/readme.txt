@@ -196,7 +196,7 @@ just a paper and pencil.
 - [Jarvis March](computational-geometry/)
 - [Quickhull](computational-geometry/)
 - [Sphere tetrahedron intersection](computational-geometry/)
-- [Sutherland Hodgeman clipping](computational-geometry/)
+- [Sutherland-Hodgman clipping](computational-geometry/)
 
 ## [Cryptography](cryptography)
 

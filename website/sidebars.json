@@ -87,7 +87,7 @@
       "jarvis-march",
       "quickhull",
       "sphere-tetrahedron-intersection",
-      "sutherland-hodgeman-clipping"
+      "sutherland-hodgman-clipping"
     ],
     "Cryptography": [ 
       "affine-cipher",
