@@ -188,7 +188,7 @@ just a paper and pencil.
 - [Axis aligned bounding box collision](https://allalgorithms.com/docs/axis-aligned-bounding-box-collision)
 - [Bresenham line](https://allalgorithms.com/docs/bresenham-line)
 - [Chans algorithm](https://allalgorithms.com/docs/chans-algorithm)
-- [Cohen sutherland lineclip](https://allalgorithms.com/docs/cohen-sutherland-lineclip)
+- [Cohen-Sutherland lineclip](https://allalgorithms.com/docs/cohen-sutherland-lineclip)
 - [Distance between points](https://allalgorithms.com/docs/distance-between-points)
 - [Graham scan](https://allalgorithms.com/docs/graham-scan)
 - [Halfplane intersection](https://allalgorithms.com/docs/halfplane-intersection)

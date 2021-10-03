@@ -93,7 +93,7 @@ module.exports = [
       'Axis aligned bounding box collision',
       'Bresenham Line',
       'Chans Algorithm',
-      'Cohen Sutherland Lineclip',
+      'Cohen-Sutherland Lineclip',
       'Distance between points',
       'Graham Scan',
       'Halfplane intersection',

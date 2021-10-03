@@ -189,7 +189,7 @@ just a paper and pencil.
 - [Axis aligned bounding box collision](computational-geometry/)
 - [Bresenham Line](computational-geometry/)
 - [Chans Algorithm](computational-geometry/)
-- [Cohen Sutherland Lineclip](computational-geometry/)
+- [Cohen-Sutherland Lineclip](computational-geometry/)
 - [Distance between points](computational-geometry/)
 - [Graham Scan](computational-geometry/)
 - [Halfplane intersection](computational-geometry/)
