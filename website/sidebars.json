@@ -85,9 +85,9 @@
       "graham-scan",
       "halfplane-intersection",
       "jarvis-march",
-      "quickull",
+      "quickhull",
       "sphere-tetrahedron-intersection",
-      "sutherland-hodgeman-clipping"
+      "sutherland-hodgman-clipping"
     ],
     "Cryptography": [ 
       "affine-cipher",
@@ -197,7 +197,7 @@
       "intro-sort",
       "median-sort",
       "merge-sort",
-      "pipeonhole-sort",
+      "pigeonhole-sort",
       "quick-sort",
       "radix-sort",
       "selection-sort",
@@ -216,7 +216,7 @@
       "finite-automata",
       "kasai-algorithm",
       "kmp-algorithm",
-      "levenshteing-distance",
+      "levenshtein-distance",
       "lipogram-checker"
     ],
     "Online challenges": [

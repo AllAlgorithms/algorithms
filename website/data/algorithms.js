@@ -93,14 +93,14 @@ module.exports = [
       'Axis aligned bounding box collision',
       'Bresenham Line',
       'Chans Algorithm',
-      'Cohen Sutherland Lineclip',
+      'Cohen-Sutherland Lineclip',
       'Distance between points',
       'Graham Scan',
       'Halfplane intersection',
       'Jarvis March',
-      'Quickull',
+      'Quickhull',
       'Sphere tetrahedron intersection',
-      'Sutherland Hodgeman clipping'
+      'Sutherland-Hodgman clipping'
     ]
   },
   {
@@ -176,7 +176,7 @@ module.exports = [
       'Euler Totient',
       'Exponentiation Power',
       'Factorial',
-      'Fast Fourier transform',
+      'Fast Fourier Transform',
       'Fast inverse Square Root'
     ]
   },
@@ -251,7 +251,7 @@ module.exports = [
       'Intro Sort',
       'Median Sort',
       'Merge Sort',
-      'Pipeonhole Sort',
+      'Pigeonhole Sort',
       'Quick Sort',
       'Radix Sort',
       'Selection Sort',
@@ -266,14 +266,14 @@ module.exports = [
   {
     category: 'Strings',
     algorithmList: [
-      'Aho Corasick Algorithm',
+      'Aho-Corasick Algorithm',
       'Anagram Search',
       'Arithmetic on large numbers',
-      'Boyer Moore Algorithm',
+      'Boyer-Moore Algorithm',
       'Finite Automata',
       'Kasai Algorithm',
       'Kmp Algorithm',
-      'Levenshteing Distance',
+      'Levenshtein Distance',
       'Lipogram Checker'
     ]
   },

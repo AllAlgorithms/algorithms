@@ -189,14 +189,14 @@ just a paper and pencil.
 - [Axis aligned bounding box collision](computational-geometry/)
 - [Bresenham Line](computational-geometry/)
 - [Chans Algorithm](computational-geometry/)
-- [Cohen Sutherland Lineclip](computational-geometry/)
+- [Cohen-Sutherland Lineclip](computational-geometry/)
 - [Distance between points](computational-geometry/)
 - [Graham Scan](computational-geometry/)
 - [Halfplane intersection](computational-geometry/)
 - [Jarvis March](computational-geometry/)
-- [Quickull](computational-geometry/)
+- [Quickhull](computational-geometry/)
 - [Sphere tetrahedron intersection](computational-geometry/)
-- [Sutherland Hodgeman clipping](computational-geometry/)
+- [Sutherland-Hodgman clipping](computational-geometry/)
 
 ## [Cryptography](cryptography)
 
@@ -280,7 +280,7 @@ just a paper and pencil.
 - [Euler Totient](math/)
 - [Exponentiation Power](math/)
 - [Factorial](math/factorial)
-- [Fast Fourier transform](math/)
+- [Fast Fourier Transform](math/)
 - [Fast inverse (sqrt) Square Root](math/)
 
 ## [Networking](networking)
@@ -347,7 +347,7 @@ just a paper and pencil.
 - [Intro Sort](sorting/)
 - [Median Sort](sorting/)
 - [Merge Sort](sorting/)
-- [Pipeonhole Sort](sorting/)
+- [Pigeonhole Sort](sorting/)
 - [Quick Sort](sorting/)
 - [Radix Sort](sorting/)
 - [Selection Sort](sorting/)
@@ -360,14 +360,14 @@ just a paper and pencil.
 
 ## [Strings](strings)
 
-- [Aho Corasick Algorithm](strings)
+- [Aho-Corasick Algorithm](strings)
 - [Anagram Search](strings)
 - [Arithmetic on large numbers](strings)
-- [Boyer Moore Algorithm](strings)
+- [Boyer-Moore Algorithm](strings)
 - [Finite Automata](strings)
 - [Kasai Algorithm](strings)
 - [Kmp Algorithm](strings)
-- [Levenshteing Distance](strings)
+- [Levenshtein Distance](strings)
 - [Lipogram Checker](strings)
 
 ## [Online Challenges](online-challenges)
