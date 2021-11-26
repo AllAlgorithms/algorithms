@@ -12,7 +12,7 @@
     "axios": "^0.24.0"
   },
   "devDependencies": {
-    "chalk": "^4.1.0",
+    "chalk": "^5.0.0",
     "command-exists": "^1.2.9",
     "dtfe": "^2.0.0",
     "shelljs": "^0.8.4"
