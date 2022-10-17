@@ -9,7 +9,7 @@
     "push": "node scripts/git-push.js"
   },
   "dependencies": {
-    "axios": "^0.24.0"
+    "axios": "^1.1.3"
   },
   "devDependencies": {
     "chalk": "^4.1.0",
